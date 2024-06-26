@@ -3,6 +3,7 @@ import Footer from "./components/Footer";
 import Nav from "./components/Nav";
 import CustomerReviews from "./sections/CustomerReviews";
 import Hero from "./sections/Hero";
+
 import PopularProducts from "./sections/PopularProducts";
 import Services from "./sections/Services";
 import SpecialOffer from "./sections/SpecialOffer";
