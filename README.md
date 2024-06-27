@@ -2,6 +2,15 @@
 ![Cover](./src/assets/Cover.png)
 </div>
 
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Snippets](#snippets)
+6. 🔗 [Links](#links)
+
 ## <a name="introduction">🤖 Introduction</a>
 
 Welcome to the Nike Shoe Store, a vibrant online platform dedicated to showcasing the latest in Nike footwear collections. Our store combines elegance with functionality, offering a seamless shopping experience tailored to meet your footwear needs.
@@ -32,6 +41,10 @@ Welcome to the Nike Shoe Store, a vibrant online platform dedicated to showcasin
 👉 **Mobile Responsive**: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
 
 and many more, including code architecture and reusability
+
+**Live Site**
+
+- https://nike-nb2jsbjj1-mrshakil.vercel.app/
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -339,4 +352,6 @@ export default {
 
 </details>
 
-#
+## <a name="links">🔗 Live Site</a>
+
+- https://nike-nb2jsbjj1-mrshakil.vercel.app/
