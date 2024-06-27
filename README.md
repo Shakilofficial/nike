@@ -348,6 +348,4 @@ export default {
 
 </details>
 
-## <a name="links">🔗 Live Site</a>
-
-- https://nike-nb2jsbjj1-mrshakil.vercel.app/
+## <a name="links">🔗[Live Site](https://nike-nb2jsbjj1-mrshakil.vercel.app/)</a>
