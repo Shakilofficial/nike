@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://github.com/Shakilofficial/nike/assets/77401962/4aa3a399-b5e6-4ca0-b63c-89b4a0760461" alt="Project Banner">
-![nike cover](https://github.com/Shakilofficial/nike/assets/77401962/4aa3a399-b5e6-4ca0-b63c-89b4a0760461)
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
