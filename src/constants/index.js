@@ -1,24 +1,24 @@
 import {
-    facebook,
-    instagram,
-    shieldTick,
-    support,
-    truckFast,
-    twitter,
+  facebook,
+  instagram,
+  shieldTick,
+  support,
+  truckFast,
+  twitter,
 } from "../assets/icons";
 import {
-    bigShoe1,
-    bigShoe2,
-    bigShoe3,
-    customer1,
-    customer2,
-    shoe4,
-    shoe5,
-    shoe6,
-    shoe7,
-    thumbnailShoe1,
-    thumbnailShoe2,
-    thumbnailShoe3,
+  bigShoe1,
+  bigShoe2,
+  bigShoe3,
+  customer1,
+  customer2,
+  shoe4,
+  shoe5,
+  shoe6,
+  shoe7,
+  thumbnailShoe1,
+  thumbnailShoe2,
+  thumbnailShoe3,
 } from "../assets/images";
 
 export const navLinks = [
@@ -101,7 +101,7 @@ export const reviews = [
   },
   {
     imgURL: customer2,
-    customerName: "Shariar Hasan",
+    customerName: "Samantha Davis",
     rating: 4.5,
     feedback:
       "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
