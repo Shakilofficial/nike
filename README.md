@@ -1,5 +1,6 @@
 <div align="center">
-![cover](/src/assets/nikecover.png)
+<img src="https://github.com/Shakilofficial/nike/assets/77401962/4aa3a399-b5e6-4ca0-b63c-89b4a0760461" alt="Project Banner">
+![nike cover](https://github.com/Shakilofficial/nike/assets/77401962/4aa3a399-b5e6-4ca0-b63c-89b4a0760461)
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -41,10 +42,6 @@ Welcome to the Nike Shoe Store, a vibrant online platform dedicated to showcasin
 👉 **Mobile Responsive**: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
 
 and many more, including code architecture and reusability
-
-**Live Site**
-
-- https://nike-nb2jsbjj1-mrshakil.vercel.app/
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
