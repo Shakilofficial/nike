@@ -57,7 +57,7 @@ const Nav = () => {
       <AnimatePresence>
         {isMenuOpen && (
           <motion.div
-            className="absolute top-full left-0 w-full bg-white shadow-lg max-lg:block"
+            className="absolute top-full left-0 w-full bg-rose-50 shadow-lg max-lg:block"
             initial={{ opacity: 0, y: -10 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -10 }}
