@@ -1,5 +1,5 @@
 <div align="center">
-![Cover](./src/assets/Cover.png)
+![Cover](https://i.ibb.co/mzzTtm9/Cover.png)
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
